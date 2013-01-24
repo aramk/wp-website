@@ -1,498 +1,498 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://localsite.com/ak/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.5" -->
 <!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.9" -->
-<!-- generated-on="January 21, 2013 5:23 AM" -->
-<!-- Debug: Total comment count: 471 -->
+<!-- generated-on="January 24, 2013 12:08 PM" -->
+<!-- Debug: Total comment count: 473 -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>http://localsite.com/ak/</loc>
-		<lastmod>2013-01-21T05:16:36+00:00</lastmod>
+		<lastmod>2013-01-24T11:28:40+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 <!-- Debug: Start Postings -->
-<!-- Debug: Priority report of postID 528: Comments: 9 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 1217: Comments: 0 of 473 = 0 points -->
+	<url>
+		<loc>http://localsite.com/ak/crayon/minimizing-code-in-crayon/</loc>
+		<lastmod>2013-01-24T11:28:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 528: Comments: 10 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/projects/imdb-scraper/</loc>
 		<lastmod>2013-01-21T05:16:36+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 560: Comments: 275 of 471 = 0.6 points -->
+<!-- Debug: Priority report of postID 560: Comments: 276 of 473 = 0.6 points -->
 	<url>
 		<loc>http://localsite.com/ak/projects/crayon-syntax-highlighter/</loc>
 		<lastmod>2013-01-17T20:31:02+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
-<!-- Debug: Priority report of postID 1217: Comments: 0 of 471 = 0 points -->
-	<url>
-		<loc>http://localsite.com/ak/crayon/minimizing-code-in-crayon/</loc>
-		<lastmod>2013-01-15T10:59:35+00:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.2</priority>
-	</url>
-<!-- Debug: Priority report of postID 1208: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 1208: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/crayon/crayon-themes/</loc>
 		<lastmod>2013-01-12T11:26:55+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 838: Comments: 7 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 838: Comments: 7 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/crayon/inline-crayons/</loc>
 		<lastmod>2013-01-12T05:00:30+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 1006: Comments: 3 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 1006: Comments: 3 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/crayon/converting-legacy-tags-to-pre/</loc>
 		<lastmod>2013-01-12T02:58:36+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 475: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 475: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/projects/crayon-is-complete/</loc>
 		<lastmod>2013-01-12T01:59:07+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 505: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 505: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/php/strpos-with-an-array-of-needles/</loc>
 		<lastmod>2013-01-12T01:59:07+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 507: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 507: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/php/check-string-array/</loc>
 		<lastmod>2013-01-12T01:59:07+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 516: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 516: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/php/singular-plural-words/</loc>
 		<lastmod>2013-01-12T01:59:07+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 524: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 524: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/php/trim-a-string-or-an-array-of-strings-recursively/</loc>
 		<lastmod>2013-01-12T01:59:07+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 557: Comments: 1 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 557: Comments: 1 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/projects/drawing-touch-points-with-cocos2d/</loc>
 		<lastmod>2013-01-12T01:59:06+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 592: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 592: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/projects/expand-recursive-list-in-python/</loc>
 		<lastmod>2013-01-12T01:58:56+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 588: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 588: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/projects/python-ordered-dictionary/</loc>
 		<lastmod>2013-01-12T01:58:56+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 596: Comments: 1 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 596: Comments: 1 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/php/detect-mac-or-pc-in-php/</loc>
 		<lastmod>2013-01-12T01:58:56+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 604: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 604: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/projects/jquery-popup-window/</loc>
 		<lastmod>2013-01-12T01:58:56+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 623: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 623: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/php/shortening-urls-into-unique-strings/</loc>
 		<lastmod>2013-01-12T01:58:56+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 625: Comments: 1 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 625: Comments: 1 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/php/create-unique-id-from-string/</loc>
 		<lastmod>2013-01-12T01:58:56+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 654: Comments: 11 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 654: Comments: 11 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/iphone/creating-a-repeating-backgroundinfinite-parallax-effect-in-cocos2d/</loc>
 		<lastmod>2013-01-12T01:58:56+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 691: Comments: 8 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 691: Comments: 8 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/projects/mini-tags-in-crayon/</loc>
 		<lastmod>2013-01-12T01:58:56+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 594: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 594: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/php/the-horrors-of-using-preg_replace/</loc>
 		<lastmod>2013-01-12T01:58:56+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 749: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 749: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/javascript/preg_match_all-for-javascript/</loc>
 		<lastmod>2013-01-12T01:58:55+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 752: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 752: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/javascript/css-to-json-converter-for-javascript/</loc>
 		<lastmod>2013-01-12T01:58:55+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 745: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 745: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/iphone/disable-nslog-when-using-device/</loc>
 		<lastmod>2013-01-12T01:58:55+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 726: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 726: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/iphone/a-simple-ccsprite-button-in-cocos2d/</loc>
 		<lastmod>2013-01-12T01:58:55+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 760: Comments: 1 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 760: Comments: 1 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/javascript/adding-css-rules-with-important-using-jquery/</loc>
 		<lastmod>2013-01-12T01:58:55+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 820: Comments: 12 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 820: Comments: 12 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/crayon/crayon-updates/</loc>
 		<lastmod>2013-01-12T01:58:55+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 785: Comments: 4 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 785: Comments: 4 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/crayon/crayon-meets-ruby/</loc>
 		<lastmod>2013-01-12T01:58:55+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 768: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 768: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/iphone/generic-stack-for-objective-c/</loc>
 		<lastmod>2013-01-12T01:58:55+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 714: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 714: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/iphone/gap-between-sprites-when-moving-in-cocos2d/</loc>
 		<lastmod>2013-01-12T01:58:55+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 973: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 973: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/random/latex-adding-comments-into-the-output/</loc>
 		<lastmod>2013-01-12T01:58:54+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 881: Comments: 3 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 881: Comments: 3 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/php/filter-dropdown-for-wordpress/</loc>
 		<lastmod>2013-01-12T01:58:54+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 968: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 968: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/javascript/javascript-module-pattern/</loc>
 		<lastmod>2013-01-12T01:58:54+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 878: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 878: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/random/word-limiting-with-regular-expressions/</loc>
 		<lastmod>2013-01-12T01:58:54+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 1046: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 1046: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/crayon/initialising-fancybox-with-custom-objects/</loc>
 		<lastmod>2013-01-12T01:58:54+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 873: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 873: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/random/removing-unfinished-sentences-from-paragraphs/</loc>
 		<lastmod>2013-01-12T01:58:54+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 868: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 868: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/php/variadicvariablekeyword-arguments-in-php/</loc>
 		<lastmod>2013-01-12T01:58:54+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 1142: Comments: 1 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 1142: Comments: 1 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/php/creating-a-simple-wordpress-widget/</loc>
 		<lastmod>2013-01-04T13:47:34+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 1146: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 1146: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/javascript/generic-javascript-slider/</loc>
 		<lastmod>2013-01-04T06:43:06+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 1088: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 1088: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/crayon/crayon-theme-editor/</loc>
 		<lastmod>2013-01-02T06:43:19+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 1126: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 1126: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/php/php-get-files-in-a-directory-recursively/</loc>
 		<lastmod>2012-12-30T08:09:25+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 1121: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 1121: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/php/php-sending-an-email-attachment/</loc>
 		<lastmod>2012-12-30T07:27:33+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 1095: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 1095: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/javascript/javascript-generating-a-readable-foreground-colour-on-any-background-colour/</loc>
 		<lastmod>2012-12-28T04:42:46+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 1090: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 1090: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/php/php-array_flip-with-values-containing-arrays/</loc>
 		<lastmod>2012-12-27T15:29:08+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 567: Comments: 16 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 567: Comments: 16 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/projects/crayon-language-file-specification/</loc>
 		<lastmod>2012-12-21T09:02:35+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 1080: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 1080: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/random/crayon-with-retina-support/</loc>
 		<lastmod>2012-12-14T08:17:46+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 1073: Comments: 7 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 1073: Comments: 7 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/crayon/resources-loaded-in-crayon/</loc>
 		<lastmod>2012-12-10T09:24:22+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 660: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 660: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/php/loading-css-and-javascript-only-when-required-in-a-wordpress-plugin/</loc>
 		<lastmod>2012-12-10T09:14:20+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 1064: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 1064: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/crayon/expanding-code-beyond-page-boundaries-in-crayon/</loc>
 		<lastmod>2012-12-05T13:36:10+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 997: Comments: 7 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 997: Comments: 7 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/crayon/crayon-with-bbpress/</loc>
 		<lastmod>2012-12-01T03:59:19+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 1039: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 1039: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/javascript/javascript-hexidecimal-colours/</loc>
 		<lastmod>2012-10-02T04:34:23+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 1021: Comments: 2 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 1021: Comments: 2 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/crayon/internal-post-management-crayon/</loc>
 		<lastmod>2012-09-26T08:47:15+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 986: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 986: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/crayon/line-ranges-in-crayon/</loc>
 		<lastmod>2012-09-01T17:17:57+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 983: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 983: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/random/current-url-in-javascript/</loc>
 		<lastmod>2012-08-25T11:33:13+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 952: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 952: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/random/adding-placeholder-support-to-all-browsers/</loc>
 		<lastmod>2012-08-14T11:44:57+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 964: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 964: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/javascript/jquery-blink-effect/</loc>
 		<lastmod>2012-07-20T14:35:52+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 958: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 958: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/javascript/css-background-size-jquery-plugin/</loc>
 		<lastmod>2012-07-20T14:18:29+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 944: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 944: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/random/ios-6-3d-maps-on-3gs-with-3denabler/</loc>
 		<lastmod>2012-06-18T04:18:07+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 942: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 942: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/random/haskell/</loc>
 		<lastmod>2012-06-13T14:03:17+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 936: Comments: 10 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 936: Comments: 10 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/crayon/adding-crayon-to-posts-in-wordpress-programmatically/</loc>
 		<lastmod>2012-05-29T15:22:52+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 913: Comments: 7 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 913: Comments: 7 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/crayon/using-crayon-manually-in-php/</loc>
 		<lastmod>2012-05-05T04:35:44+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 885: Comments: 19 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 885: Comments: 19 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/projects/crayon-tag-editor/</loc>
 		<lastmod>2012-03-25T04:06:51+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 856: Comments: 3 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 856: Comments: 3 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/wordpress/testing-wordpress-in-windows-from-a-mac/</loc>
 		<lastmod>2012-03-10T10:08:50+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 829: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 829: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/iphone/gambitron/</loc>
 		<lastmod>2012-03-05T21:56:49+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 806: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 806: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/iphone/ios-app-store-icon-template/</loc>
 		<lastmod>2012-01-30T11:03:16+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 609: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 609: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/projects/crayon-settings/</loc>
 		<lastmod>2012-01-25T06:48:16+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 774: Comments: 2 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 774: Comments: 2 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/crayon/failing-to-load-crayons-on-pages/</loc>
 		<lastmod>2012-01-23T08:25:46+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 738: Comments: 6 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 738: Comments: 6 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/projects/enqueuing-themes-and-fonts-in-crayon/</loc>
 		<lastmod>2012-01-07T07:06:55+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 675: Comments: 6 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 675: Comments: 6 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/projects/mixed-language-highlighting-in-crayon/</loc>
 		<lastmod>2011-12-25T02:45:04+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 652: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 652: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/random/minima-theme/</loc>
 		<lastmod>2011-11-24T04:42:38+00:00</lastmod>
@@ -505,77 +505,77 @@
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
-<!-- Debug: Priority report of postID 521: Comments: 1 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 521: Comments: 1 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/projects/mechanix-game-in-gwt/</loc>
 		<lastmod>2011-09-14T15:17:57+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 130: Comments: 13 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 130: Comments: 13 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/iphone/using-uniwireless-with-the-iphone-mail-app/</loc>
 		<lastmod>2011-09-14T15:09:45+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 193: Comments: 2 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 193: Comments: 2 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/projects/shadow-wing-java-game-using-slick-library/</loc>
 		<lastmod>2011-09-14T14:58:15+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 510: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 510: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/projects/business-software-alliance-piracy-rate-data/</loc>
 		<lastmod>2011-09-09T12:08:46+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 452: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 452: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/random/intermission/</loc>
 		<lastmod>2011-06-30T05:00:02+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 57: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 57: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/random/hello-world-ak/</loc>
 		<lastmod>2011-06-17T12:55:46+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 167: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 167: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/iphone/useful-iphone-jailbreak-links/</loc>
 		<lastmod>2011-06-17T12:55:40+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 177: Comments: 5 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 177: Comments: 5 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/iphone/invisible-android-lockscreen-pattern-for-iphone/</loc>
 		<lastmod>2011-06-17T12:55:33+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 223: Comments: 26 of 471 = 0.1 points -->
+<!-- Debug: Priority report of postID 223: Comments: 26 of 473 = 0.1 points -->
 	<url>
 		<loc>http://localsite.com/ak/projects/how-to-make-a-multi-platform-executable-java-jar-file/</loc>
 		<lastmod>2011-06-17T12:55:10+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 253: Comments: 0 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 253: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/random/adium-facebook-chat-broken-fix/</loc>
 		<lastmod>2011-06-17T12:55:01+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 258: Comments: 2 of 471 = 0 points -->
+<!-- Debug: Priority report of postID 258: Comments: 2 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/iphone/university-of-melbourne-iphone-app/</loc>
 		<lastmod>2011-06-17T12:54:57+00:00</lastmod>
