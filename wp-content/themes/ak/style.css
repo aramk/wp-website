@@ -654,6 +654,21 @@ article a {
 .main-navigation ul.nav-menu.toggled-on,
 .menu-toggle {
     display: inline-block;
+    /*float: left;*/
+}
+
+.menu-main-menu-container {
+    position: relative;
+}
+.main-navigation ul.nav-menu.toggled-on {
+    background: #eee;
+    padding: 10px;
+    margin-left: 8px;
+    float: none;
+    position: absolute;
+    top: 32px;
+    left: 0;
+    z-index: 100;
 }
 
 /* Banner */
@@ -1542,7 +1557,7 @@ img#wpstats {
     }
 
     .main-navigation li a {
-        margin: 0 26px;
+        margin: 0 10px;
         border-bottom: 0;
         color: #6a6a6a;
         line-height: 38px;
@@ -1687,6 +1702,10 @@ img#wpstats {
         margin-bottom: 0;
         box-shadow: none;
     }
+
+    .main-navigation li a {
+        margin: 0 26px;
+    }
 }
 
 /* =Print
@@ -1824,6 +1843,10 @@ img#wpstats {
 /* =Custom
 ----------------------------------------------- */
 
+header {
+    position: relative;
+}
+
 .site-logo {
     width: 60px;
     height: 41px;
@@ -1834,7 +1857,9 @@ img#wpstats {
 }
 
 .site-header hgroup {
-    float: left;
+    position: absolute;
+    left: 0;
+    top: 25px;
 }
 
 .site-header {
@@ -1844,7 +1869,7 @@ img#wpstats {
 
 .main-navigation {
     /*line-height: 53px;*/
-    margin-left: 20px;
+    margin-left: 60px;
 }
 
 .site-info {
@@ -1919,11 +1944,11 @@ a {
 
 .sidebar-header {
     margin: 0;
-    width: 150px;
+    width: 130px;
 }
 
 .sidebar-header #s {
-    width: 136px;
+    width: 115px;
     border-color: #eee;
     font-size: 13px;
 }
@@ -1947,4 +1972,20 @@ a {
 }
 .sidebar-header #s :-ms-input-placeholder {
     color: #ddd;
+}
+
+
+.menu-toggle {
+    float: left !important;
+    clear: none !important;
+    margin: 5px 10px 0 20px !important;
+}
+.sidebar-header {
+    float: right;
+    margin-top: 3px;
+    height: 35px;
+}
+
+#page {
+    overflow: hidden !important;
 }
