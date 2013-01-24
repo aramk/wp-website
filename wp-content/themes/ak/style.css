@@ -526,7 +526,7 @@ html {
 }
 
 body {
-    font-size: 15px;
+    font-size: 14px;
     font-family: 'Mako', Helvetica, Arial, sans-serif;
     text-rendering: optimizeLegibility;
     color: #444;
@@ -572,6 +572,11 @@ article a {
     top: 5px;
     left: 5px;
     z-index: 100000; /* Above WP toolbar */
+}
+
+.main-navigation {
+    /*line-height: 53px;*/
+    margin-left: 60px;
 }
 
 /* Page structure */
@@ -1495,6 +1500,7 @@ img#wpstats {
 
 /* Minimum width of 600 pixels. */
 @media screen and (min-width: 600px) {
+
     .author-avatar {
         float: left;
         margin-top: 8px;
@@ -1676,11 +1682,16 @@ img#wpstats {
     .commentlist .children {
         margin-left: 48px;
     }
+
+    .main-navigation {
+        margin-left: 80px;
+    }
 }
 
 /* Minimum width of 960 pixels. */
 @media screen and (min-width: 960px) {
     body {
+        font-size: 15px;
         background-color: #e6e6e6;
     }
 
@@ -1867,11 +1878,6 @@ header {
     border-bottom: 1px solid #eee;
 }
 
-.main-navigation {
-    /*line-height: 53px;*/
-    margin-left: 60px;
-}
-
 .site-info {
     text-align: center;
     color: #aaa;
@@ -1892,6 +1898,8 @@ header {
 .sidebar-footer .widget h3 {
     font-size: 13px;
     margin-bottom: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
 a {
@@ -1944,23 +1952,20 @@ a {
 
 .sidebar-header {
     margin: 0;
-    width: 130px;
+    width: 145px;
 }
 
 .sidebar-header #s {
-    width: 115px;
+    width: 130px;
     border-color: #eee;
     font-size: 13px;
 }
-
 .sidebar-header #s:hover {
     border-color: #ddd;
 }
-
 .sidebar-header #searchform label {
     display: none;
 }
-
 .sidebar-header #s::-webkit-input-placeholder {
     color: #ddd;
 }
@@ -1974,6 +1979,23 @@ a {
     color: #ddd;
 }
 
+@media screen and (min-width: 600px) {
+    .sidebar-header {
+        width: 75px;
+    }
+    .sidebar-header #s {
+        width: 60px;
+    }
+}
+
+@media screen and (min-width: 700px) {
+    .sidebar-header {
+        width: 130px;
+    }
+    .sidebar-header #s {
+        width: 115px;
+    }
+}
 
 .menu-toggle {
     float: left !important;
