@@ -145,6 +145,8 @@ function twentytwelve_scripts_styles() {
 	 */
 	wp_enqueue_style( 'twentytwelve-style', get_stylesheet_uri() );
 
+    wp_enqueue_style( 'twentytwelve-crayon-banner', get_template_directory_uri() . '/css/crayon-banner.css', array( 'twentytwelve-style' ) );
+
 	/*
 	 * Loads the Internet Explorer specific stylesheet.
 	 */

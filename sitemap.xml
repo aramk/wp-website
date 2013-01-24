@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://localsite.com/ak/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.5" -->
 <!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.9" -->
-<!-- generated-on="January 24, 2013 12:08 PM" -->
+<!-- generated-on="January 24, 2013 1:04 PM" -->
 <!-- Debug: Total comment count: 473 -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>http://localsite.com/ak/</loc>
-		<lastmod>2013-01-24T11:28:40+00:00</lastmod>
+		<lastmod>2013-01-24T13:03:27+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 <!-- Debug: Start Postings -->
+<!-- Debug: Priority report of postID 560: Comments: 276 of 473 = 0.6 points -->
+	<url>
+		<loc>http://localsite.com/ak/projects/crayon-syntax-highlighter/</loc>
+		<lastmod>2013-01-24T13:03:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
 <!-- Debug: Priority report of postID 1217: Comments: 0 of 473 = 0 points -->
 	<url>
 		<loc>http://localsite.com/ak/crayon/minimizing-code-in-crayon/</loc>
@@ -22,13 +29,6 @@
 		<lastmod>2013-01-21T05:16:36+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
-	</url>
-<!-- Debug: Priority report of postID 560: Comments: 276 of 473 = 0.6 points -->
-	<url>
-		<loc>http://localsite.com/ak/projects/crayon-syntax-highlighter/</loc>
-		<lastmod>2013-01-17T20:31:02+00:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.6</priority>
 	</url>
 <!-- Debug: Priority report of postID 1208: Comments: 0 of 473 = 0 points -->
 	<url>
@@ -137,7 +137,7 @@
 	</url>
 <!-- Debug: Priority report of postID 654: Comments: 11 of 473 = 0 points -->
 	<url>
-		<loc>http://localsite.com/ak/iphone/creating-a-repeating-backgroundinfinite-parallax-effect-in-cocos2d/</loc>
+		<loc>http://localsite.com/ak/ios/creating-a-repeating-backgroundinfinite-parallax-effect-in-cocos2d/</loc>
 		<lastmod>2013-01-12T01:58:56+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
@@ -172,14 +172,14 @@
 	</url>
 <!-- Debug: Priority report of postID 745: Comments: 0 of 473 = 0 points -->
 	<url>
-		<loc>http://localsite.com/ak/iphone/disable-nslog-when-using-device/</loc>
+		<loc>http://localsite.com/ak/ios/disable-nslog-when-using-device/</loc>
 		<lastmod>2013-01-12T01:58:55+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 <!-- Debug: Priority report of postID 726: Comments: 0 of 473 = 0 points -->
 	<url>
-		<loc>http://localsite.com/ak/iphone/a-simple-ccsprite-button-in-cocos2d/</loc>
+		<loc>http://localsite.com/ak/ios/a-simple-ccsprite-button-in-cocos2d/</loc>
 		<lastmod>2013-01-12T01:58:55+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
@@ -207,14 +207,14 @@
 	</url>
 <!-- Debug: Priority report of postID 768: Comments: 0 of 473 = 0 points -->
 	<url>
-		<loc>http://localsite.com/ak/iphone/generic-stack-for-objective-c/</loc>
+		<loc>http://localsite.com/ak/ios/generic-stack-for-objective-c/</loc>
 		<lastmod>2013-01-12T01:58:55+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 <!-- Debug: Priority report of postID 714: Comments: 0 of 473 = 0 points -->
 	<url>
-		<loc>http://localsite.com/ak/iphone/gap-between-sprites-when-moving-in-cocos2d/</loc>
+		<loc>http://localsite.com/ak/ios/gap-between-sprites-when-moving-in-cocos2d/</loc>
 		<lastmod>2013-01-12T01:58:55+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
@@ -452,14 +452,14 @@
 	</url>
 <!-- Debug: Priority report of postID 829: Comments: 0 of 473 = 0 points -->
 	<url>
-		<loc>http://localsite.com/ak/iphone/gambitron/</loc>
+		<loc>http://localsite.com/ak/ios/gambitron/</loc>
 		<lastmod>2012-03-05T21:56:49+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 <!-- Debug: Priority report of postID 806: Comments: 0 of 473 = 0 points -->
 	<url>
-		<loc>http://localsite.com/ak/iphone/ios-app-store-icon-template/</loc>
+		<loc>http://localsite.com/ak/ios/ios-app-store-icon-template/</loc>
 		<lastmod>2012-01-30T11:03:16+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
@@ -514,7 +514,7 @@
 	</url>
 <!-- Debug: Priority report of postID 130: Comments: 13 of 473 = 0 points -->
 	<url>
-		<loc>http://localsite.com/ak/iphone/using-uniwireless-with-the-iphone-mail-app/</loc>
+		<loc>http://localsite.com/ak/ios/using-uniwireless-with-the-iphone-mail-app/</loc>
 		<lastmod>2011-09-14T15:09:45+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
@@ -549,14 +549,14 @@
 	</url>
 <!-- Debug: Priority report of postID 167: Comments: 0 of 473 = 0 points -->
 	<url>
-		<loc>http://localsite.com/ak/iphone/useful-iphone-jailbreak-links/</loc>
+		<loc>http://localsite.com/ak/ios/useful-iphone-jailbreak-links/</loc>
 		<lastmod>2011-06-17T12:55:40+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 <!-- Debug: Priority report of postID 177: Comments: 5 of 473 = 0 points -->
 	<url>
-		<loc>http://localsite.com/ak/iphone/invisible-android-lockscreen-pattern-for-iphone/</loc>
+		<loc>http://localsite.com/ak/ios/invisible-android-lockscreen-pattern-for-iphone/</loc>
 		<lastmod>2011-06-17T12:55:33+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
@@ -577,7 +577,7 @@
 	</url>
 <!-- Debug: Priority report of postID 258: Comments: 2 of 473 = 0 points -->
 	<url>
-		<loc>http://localsite.com/ak/iphone/university-of-melbourne-iphone-app/</loc>
+		<loc>http://localsite.com/ak/ios/university-of-melbourne-iphone-app/</loc>
 		<lastmod>2011-06-17T12:54:57+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>

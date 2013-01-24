@@ -990,10 +990,17 @@ img.aligncenter {
 .comment-content table {
     border-bottom: 1px solid #ededed;
     color: #757575;
-    font-size: 12px;
     line-height: 2;
     margin: 0 0 24px;
     width: 100%;
+}
+.entry-content table,
+.entry-content table pre,
+.entry-content table code,
+.comment-content table,
+.comment-content table pre,
+.comment-content table code {
+    font-size: 13px;
 }
 
 .entry-content table caption,
