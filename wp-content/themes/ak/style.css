@@ -1989,3 +1989,10 @@ a {
 #page {
     overflow: hidden !important;
 }
+
+.site-content article {
+    border-bottom: 1px solid #eee;
+}
+.single-post .site-content article {
+    border: none;
+}
