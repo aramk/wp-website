@@ -1952,11 +1952,11 @@ a {
 
 .sidebar-header {
     margin: 0;
-    width: 145px;
+    width: 130px;
 }
 
 .sidebar-header #s {
-    width: 130px;
+    width: 115px;
     border-color: #eee;
     font-size: 13px;
 }
