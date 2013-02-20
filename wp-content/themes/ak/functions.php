@@ -171,8 +171,12 @@ function twentytwelve_wp_title( $title, $sep ) {
 	if ( is_feed() )
 		return $title;
 
+    if (empty($sep)) {
+        $sep = '|';
+    }
+
 	// Add the site name.
-	$title .= get_bloginfo( 'name' );
+	$title .= " $sep " . get_bloginfo( 'name' );
 
 	// Add the site description for the home/front page.
 	$site_description = get_bloginfo( 'description', 'display' );

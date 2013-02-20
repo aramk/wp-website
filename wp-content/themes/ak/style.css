@@ -1078,7 +1078,7 @@ footer.entry-meta,
 
 .archive-meta {
     color: #757575;
-    font-size: 12px;
+    font-size: 15px;
     line-height: 2;
     margin-top: 22px;
 }
@@ -1935,7 +1935,7 @@ a {
 }
 
 .content-share * {
-    max-width: 56px !important;
+/*    max-width: 56px !important;*/
 }
 
 #fb-root {
